@@ -8,10 +8,10 @@
 
 ## 🧑‍💻 About Me
 
-💻 I specialize in **Front-End Development** using **React.js**, **Next.js**, and **Tailwind CSS**
-🎨 I enjoy converting designs (Figma/Adobe XD) into responsive, accessible interfaces
-🚀 I build and deploy real-world projects using **Vercel**, **GitHub**, and **APIs**
-🧠 Always learning: currently diving deeper into **Next.js App Router**, **Server Actions**, and **Caching Strategies**
+💻 I specialize in **Front-End Development** using **React.js**, **Next.js**, and **Tailwind CSS**<br/>
+🎨 I enjoy converting designs (Figma/Adobe XD) into responsive, accessible interfaces<br/>
+🚀 I build and deploy real-world projects using **Vercel**, **GitHub**, and **APIs**<br/>
+🧠 Always learning: currently diving deeper into **Next.js App Router**, **Server Actions**, and **Caching Strategies**<br/>
 🌍 I love clean code, modern UI, and performance optimization
 
 ---
