@@ -76,52 +76,6 @@ Here are some of my real-world projects:
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
----
-
-### 🚀 Let’s build something amazing together!
-
-
-
-
-
-
-
-
-
-<h2 align="left">🧑‍💻 About Me</h2>
-
-###
-
-<p align="left">💻 I specialize in Front-End Development using React.js, Next.js, and Tailwind CSS<br>🎨 I enjoy converting designs (Figma/Adobe XD) into responsive, accessible interfaces<br>🚀 I build and deploy real-world projects using Vercel, GitHub, and APIs<br>🧠 Always learning: currently diving deeper into Next.js App Router, Server Actions, and Caching Strategies<br>🌍 I love clean code, modern UI, and performance optimization</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="50" alt="adonisjs logo"  />
-</div>
-
-###
-
 ###
 
 <div align="center">
@@ -149,6 +103,11 @@ Here are some of my real-world projects:
 </div>
 
 ###
+
+### 🚀 Let’s build something amazing together!
+
+
+
 
 
 
