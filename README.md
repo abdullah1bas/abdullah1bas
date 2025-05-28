@@ -72,14 +72,6 @@ Here are some of my real-world projects:
 
 ## 📬 Get in Touch
 
-- 💌 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-
-###
-
-## 🌐 Social Media
-
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-fadel-21500b27b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
