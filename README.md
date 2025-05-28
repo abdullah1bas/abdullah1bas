@@ -8,28 +8,45 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 I specialize in **Front-End Development** using **React.js**, **Next.js**, and **Tailwind CSS**
-- 🎨 I enjoy converting designs (Figma/Adobe XD) into responsive, accessible interfaces
-- 🚀 I build and deploy real-world projects using **Vercel**, **GitHub**, and **APIs**
-- 🧠 Always learning: currently diving deeper into **Next.js App Router**, **Server Actions**, and **Caching Strategies**
-- 🌍 I love clean code, modern UI, and performance optimization
+💻 I specialize in **Front-End Development** using **React.js**, **Next.js**, and **Tailwind CSS**
+🎨 I enjoy converting designs (Figma/Adobe XD) into responsive, accessible interfaces
+🚀 I build and deploy real-world projects using **Vercel**, **GitHub**, and **APIs**
+🧠 Always learning: currently diving deeper into **Next.js App Router**, **Server Actions**, and **Caching Strategies**
+🌍 I love clean code, modern UI, and performance optimization
 
 ---
 
-## 🔧 Tech Stack
+<h2 align="left">🔧 Tech Stack</h2>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+###
 
----
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+</div>
+
+##
 
 ## 📂 My Projects
 
@@ -40,8 +57,6 @@ Here are some of my real-world projects:
 - 🔒 [Auth System](https://your-auth-app.vercel.app) – Authentication using Clerk + Next.js + Server Actions
 
 > 📌 Visit my pinned repositories to explore more...
-
----
 
 ##
 
@@ -72,15 +87,6 @@ Here are some of my real-world projects:
 
 
 
-
-
-<h1 align="center">Hi, I'm Abdullah 👋</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">🧑‍💻 About Me</h2>
 
@@ -118,14 +124,32 @@ Here are some of my real-world projects:
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdullah-fadel-21500b27b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="abdullah.abazza@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/abdullahafter.change" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/abdullah_1_bas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/abazza10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="64" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/abdullah_abazza" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=201098321692&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="64" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
+
 
 
 
