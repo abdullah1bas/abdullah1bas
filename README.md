@@ -52,11 +52,28 @@
 
 Here are some of my real-world projects:
 
-- 🛍️ [Fashion Fusion](https://fashionfusions-two.vercel.app) – E-commerce app with full cart system, payment via Stripe
-- 📰 [Blog System](https://your-blog.vercel.app) – Blog CMS consuming WordPress API using Next.js App Router
-- 🔒 [Auth System](https://your-auth-app.vercel.app) – Authentication using Clerk + Next.js + Server Actions
+- 🎨 [Personal Portfolio](https://abazza-portfolio.vercel.app/en) – A clean and responsive portfolio built with Next.js and Tailwind CSS, showcasing skills, projects, and contact options. Includes dark mode, language toggle, and accessible design.
+
+- 🛍️ [Fashion Fusion – E-commerce App](https://fashionfusions-two.vercel.app/) – A full e-commerce web app featuring dynamic product pages, shopping cart, and Stripe payments. Built with Next.js App Router and integrated email confirmation using Resend API.
+
+- 📊 [Admin Dashboard](https://admin-dashboard-iota-blue.vercel.app/) – A modern dashboard with charts, user management, and UI components built using React, Redux Toolkit, and MUI. Focused on clean structure and responsive layout.
 
 > 📌 Visit my pinned repositories to explore more...
+
+##
+
+## 💼 Professional Experience
+
+**👨‍💻 Front-End Developer – Pack Tech Company**  
+📍 *Egypt* – *January 2020 – Present*
+
+- Developed interactive UIs using **React**, **Next.js**, and **Tailwind CSS**
+- Integrated APIs, managed complex state using **Redux Toolkit** and **Zustand**
+- Implemented real-world features like **authentication (Clerk)** and **payment systems (Stripe)**
+- Deployed applications to **Vercel**, managed version control with Git/GitHub
+- Collaborated on internal systems and dashboards with a focus on clean, accessible UI
+
+> 💡 This hands-on role helped me build production-ready applications, and work within real team dynamics and business goals.
 
 ##
 
