@@ -77,6 +77,8 @@ Here are some of my real-world projects:
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
 ###
+###
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-fadel-21500b27b/" target="_blank">
