@@ -64,14 +64,14 @@ Here are some of my real-world projects:
 
 ## 💼 Professional Experience
 
-**👨‍💻 Front-End Developer – Pack Tech Company**  
-📍 *Egypt* – *January 2020 – Present*
+**👨‍💻 Front-End Developer – Bowmen Marketing**  
+📍 *Fifth Settlement* – *December 2024 – *April 2025
 
-- Developed interactive UIs using **React**, **Next.js**, and **Tailwind CSS**
-- Integrated APIs, managed complex state using **Redux Toolkit** and **Zustand**
-- Implemented real-world features like **authentication (Clerk)** and **payment systems (Stripe)**
-- Deployed applications to **Vercel**, managed version control with Git/GitHub
-- Collaborated on internal systems and dashboards with a focus on clean, accessible UI
+- Utilized HTML, CSS, and JavaScript to create visually appealing and responsive web pages that met client requirements. 
+- Designing and developing modern, responsive websites. 
+- Implementing UI components using Next.js, TailwindCSS, and ShadCN/UI. 
+- Collaborating with designers and developers to translate Figma designs into functional web applications. 
+- Ensuring optimal performance and scalability of web applications.
 
 > 💡 This hands-on role helped me build production-ready applications, and work within real team dynamics and business goals.
 
