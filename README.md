@@ -56,7 +56,7 @@ Here are some of my real-world projects:
 
 - 🛍️ [Fashion Fusion – E-commerce App](https://fashionfusions-two.vercel.app/) – A full e-commerce web app featuring dynamic product pages, shopping cart, and Stripe payments. Built with Next.js App Router and integrated email confirmation using Resend API.
 
-- 📊 [Admin Dashboard](https://admin-dashboard-iota-blue.vercel.app/) – A modern dashboard with charts, user management, and UI components built using React, Redux Toolkit, and MUI. Focused on clean structure and responsive layout.
+- 📊 [Admin Dashboard](https://admin-dashboard-iota-blue.vercel.app/) – A modern dashboard with charts, user management, and UI components built using React and MUI. Focused on clean structure and responsive layout.
 
 > 📌 Visit my pinned repositories to explore more...
 
